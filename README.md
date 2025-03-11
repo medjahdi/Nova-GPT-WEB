@@ -42,4 +42,4 @@ If you find this project useful, please consider donating to support its develop
 
 ## Screenshot
 
-![Screenshot](path/to/screenshot.png)
+![Screenshot](https://github.com/medjahdi/Nova-GPT-WEB/blob/main/1.png)
