@@ -1,7 +1,6 @@
-# Project Title
+# Nova GPT
 
-A brief description of what this project does and who it's for.
-
+Interact with Nova GPT, an advanced AI assistant designed to deliver intelligent and creative responses.
 ## Installation
 
 Instructions on how to install and set up the project.
